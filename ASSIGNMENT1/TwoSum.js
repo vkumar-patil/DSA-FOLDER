@@ -1,4 +1,4 @@
-//TwoSum//
+//TwoSum//first problem solve
 num = [2, 7, 11, 15];
 target = 9;
 function twoSum(num, target) {
